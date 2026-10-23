@@ -1,0 +1,5 @@
+.env
+__pycache__/
+map.html
+data/*_raw.*
+.DS_Store
